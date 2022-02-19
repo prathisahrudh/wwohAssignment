@@ -1,0 +1,28 @@
+.brandLogoContainer{
+    animation: fadeInBackground 6s;
+    height: 100vh;
+
+}
+
+.logoText{
+    font-weight: 700;
+    font-size: 1.2em;
+    animation: fadeInLogoText ease 10s;
+}
+
+
+/* Animtaions */
+    /*Logo Text Animation*/
+    @keyframes fadeInLogoText {
+    0% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+    }
+    /* Background Animation*/
+    @keyframes fadeInBackground {
+        from {background-color: black;}
+        to {background-color: white;}
+    }
