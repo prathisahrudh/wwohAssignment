@@ -1,0 +1,1 @@
+This is Part 4 of the app where there are 2 sections - Posts and Tips[with a custom slider]
