@@ -1,5 +1,5 @@
 .brandLogoContainer{
-    animation: fadeInBackground 6s;
+    animation: fadeInBackground 4s;
     height: 100vh;
 
 }
@@ -7,7 +7,7 @@
 .logoText{
     font-weight: 700;
     font-size: 1.2em;
-    animation: fadeInLogoText ease 10s;
+    animation: fadeInLogoText ease 4s;
 }
 
 

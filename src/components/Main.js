@@ -10,6 +10,7 @@ const Main = () => {
     <>
       <Navbar />
       <HomePage />
+      HI
     </>
   )
 }
